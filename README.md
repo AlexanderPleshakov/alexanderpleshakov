@@ -23,21 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🤝 Связаться со мной:
 
-  <div id="badges">
-    <a href="https://t.me/avtomatoUwU" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
-    </a>
-    <a href="https://vk.com/prostoal_ex" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
-    </a>
-    <a href="mailto:alexanderpleshakovone@gmail.com" target="_blank">
-      <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gmail.png" width="40" height="40" alt="Gmail"/>
-    </a>
-  </div>
-
----
 
 ### 💻 Технологии:
 
@@ -61,6 +47,32 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   
 </div>
+
+---
+
+### ⚙️ Навыки:
+- MVC/MVP/MVVM
+- SOLID/KISS/DRY/YAGNI
+- AutoLayout
+- User Defaults
+- Async/Await
+- URLSession, URLRequest
+
+---
+
+### 🤝 Связаться со мной:
+
+  <div id="badges">
+    <a href="https://t.me/avtomatoUwU" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+    </a>
+    <a href="https://vk.com/prostoal_ex" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+    </a>
+    <a href="mailto:alexanderpleshakovone@gmail.com" target="_blank">
+      <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gmail.png" width="40" height="40" alt="Gmail"/>
+    </a>
+  </div>
 
 ---
 
