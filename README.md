@@ -33,8 +33,34 @@ Here are some ideas to get you started:
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
     </a>
     <a href="mailto:alexanderpleshakovone@gmail.com" target="_blank">
-      <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/vecteezy_gmail-png-icone_16716465.png" width="40" height="40" alt="Gmail"/>
+      <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gmail.png" width="40" height="40" alt="Gmail"/>
     </a>
   </div>
 
 ---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="swift" width="40" height="40"/>&nbsp
+  <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/swiftui.png" title="SwiftUI" alt="swiftUI" width="40" height="40"/>&nbsp
+  <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/uikit.svg" title="UIKit" alt="UIKIt" width="40" height="40"/>&nbsp
+  <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/xctests.png.webp" title="UI/Unit Tests" alt="XCTest" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gitkraken.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  
+</div>
+
+---
+
