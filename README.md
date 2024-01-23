@@ -1,4 +1,4 @@
-### Привет, меня зовут Александр
+# Привет, меня зовут Александр
 
 ---
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :man_technologist: Обо мне:
+## :man_technologist: Обо мне:
 
 Я начинающий iOS-разработчик. iOS разработкой заинтересовался при поступлении в университет и небольшими шагами вникал мир iOS. Год самостоятельно изучал Swift и SwiftUI, но прогресса не замечал. Сейчас я обучаюсь на курсе яндекс практикума "iOS-разрабочик" и замечаю, как прогрессирую с каждым днем.
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-### 💻 Технологии:
+## 💻 Технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="swift" width="40" height="40"/>&nbsp
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠 Инструменты:
+## 🛠 Инструменты:
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ⚙️ Навыки:
+## ⚙️ Навыки:
 - MVC/MVP/MVVM
 - SOLID/KISS/DRY/YAGNI
 - AutoLayout
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🤝 Связаться со мной:
+## 🤝 Связаться со мной:
 
   <div id="badges">
     <a href="https://t.me/avtomatoUwU" target="_blank">
