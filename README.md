@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ## 🤝 Связаться со мной:
 
   <div id="badges">
-    <a href="https://t.me/avtomatoUwU" target="_blank">
+    <a href="https://t.me/AlexanderPleshakovOne" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
     </a>
     <a href="https://vk.com/prostoal_ex" target="_blank">
