@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## :man_technologist: Обо мне:
 
-Я начинающий iOS-разработчик. Учусь в вузе МТУСИ на втором курсе бакалавриата на направлении "Фундаментальная информатика и информационные технологии". iOS разработкой заинтересовался при поступлении в университет и небольшими шагами вникал в мир iOS. Год самостоятельно изучал Swift и SwiftUI. Сейчас я обучаюсь на курсе яндекс практикума "iOS-разрабочик" и замечаю, как прогрессирую с каждым днем. 
+Я начинающий iOS-разработчик. Учусь в вузе МТУСИ на втором курсе бакалавриата на направлении "Фундаментальная информатика и информационные технологии". iOS разработкой заинтересовался при поступлении в университет и небольшими шагами вникал в мир iOS. Год самостоятельно изучал Swift и SwiftUI. Сейчас я обучаюсь на курсе яндекс практикума "iOS-разрабочик". 
 
 ---
 
@@ -40,23 +40,22 @@ Here are some ideas to get you started:
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gitkraken.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  
+   <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gitkraken.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ## ⚙️ Навыки:
-- MVC/MVP/MVVM
+- MVC/MVP
 - SOLID/KISS/DRY/YAGNI
 - AutoLayout
 - User Defaults
-- Async/Await
-- URLSession, URLRequest
+- Keychain
+- KVO
+- Notification Center
+- URLSession
 
 ---
 
