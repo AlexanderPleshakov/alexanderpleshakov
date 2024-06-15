@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 ---
 
 ## ⚙️ Навыки:
-- MVC/MVP
+- UIKit/SwiftUI
+- MVC/MVP/MVVM
 - SOLID/KISS/DRY/YAGNI
+- CoreData
+- User Defaults/ Keychain
+- Notification Center/ KVO
 - AutoLayout
-- User Defaults
-- Keychain
-- KVO
-- Notification Center
 - URLSession
 
 ---
