@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 - Notification Center/ KVO
 - AutoLayout
 - URLSession
+- UI/Unit Tests
 
 ---
 
