@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - SOLID/KISS/DRY/YAGNI
 - CoreData
 - User Defaults/ Keychain
+- SPM/CocoaPods
 - Notification Center/ KVO
 - AutoLayout
 - URLSession
