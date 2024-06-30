@@ -88,7 +88,7 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td style="vertical-align: middle;" width="300">
-       <a href="https://vk.com/prostoal_ex" target="_blank">Telegram</a>
+       <a href="https://t.me/AlexanderPleshakovOne" target="_blank">Telegram</a>
     </td>
   </tr>
 </table>
