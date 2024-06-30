@@ -34,11 +34,35 @@ Here are some ideas to get you started:
 
 ## 🛠 Инструменты:
 
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gitkraken.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+<table>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" style="float:left; margin-right:10px;" width="40" height="40"/></td>
+    <td style="vertical-align: middle;">Знание XCode и его особенностей</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;</td>
+    <td style="vertical-align: middle;">Базовое тестирование api в Postman</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gitkraken.svg" title="GitKraken" alt="GitKraken" width="40" height="40"/>&nbsp;</td>
+    <td style="vertical-align: middle;">Работа c git клиентами (Fork, Sourcetree, GitKraken)</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;</td>
+    <td style="vertical-align: middle;">Уверенное знание Figma</td>
+  </tr>
+</table>
+
+   
+   
+   
+   
 </div>
 
 ---
