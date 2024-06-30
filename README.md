@@ -1,6 +1,6 @@
 # Привет, меня зовут Александр!
 
----
+
 
 <!--
 **AlexanderPleshakov/alexanderpleshakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - Работал с CoreData
 - Обширно использую менеджеры зависимостей (CocoaPods, SPM)
 - Много работаю с сетью, с легкость взаимодействую с api
-- Хорошо знаком с ахитектурными патернами MVC, MVP, MVVM и на каждом из них писал проект
-- Писал много unit тестов и хорошо знаком с объектами двойниками
+- Хорошо знаком с ахитектурными патернами MVC, MVP, MVVM и на каждом из них писал проекты
+- Написал много unit тестов и работал с объектами двойниками
 - Стараюсь писать чистый код, который соответстует общепринятому кодстайлу
 
-Сейчас активно изучаю SwiftUI и Combine, также пишу совместный проект, в котором на бекенде gRPC сервер
-
----
+Сейчас активно изучаю SwiftUI и Combine, также пишу совместный проект, в котором взаимодействую с gRPC сервером
+<br>
+<br>
 
 ## 🛠 Инструменты:
 
@@ -59,13 +59,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-   
-   
-   
-   
-</div>
-
----
+<br>
 
 ## ⚙️ Навыки:
 - UIKit/SwiftUI
@@ -80,21 +74,46 @@ Here are some ideas to get you started:
 - UI/Unit Tests
 - JSON/Protobuf
 
----
+<br>
 
 ## 🤝 Связаться со мной:
 
-  <div id="badges">
-    <a href="https://t.me/AlexanderPleshakovOne" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
-    </a>
-    <a href="https://vk.com/prostoal_ex" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
-    </a>
-    <a href="mailto:alexanderpleshakovone@gmail.com" target="_blank">
-      <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gmail.png" width="40" height="40" alt="Gmail"/>
-    </a>
-  </div>
+<table>
+  <tr>
+    <td>
+      <a href="https://t.me/AlexanderPleshakovOne" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+      </a>
+    </td>
+    <td style="vertical-align: middle;" width="300">
+       <a href="https://vk.com/prostoal_ex" target="_blank">Telegram</a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="https://vk.com/prostoal_ex" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle;" width="300">
+      <a href="https://vk.com/prostoal_ex" target="_blank">VK</a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="mailto:alexanderpleshakovone@gmail.com" target="_blank">
+        <img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gmail.png" width="40" height="40" alt="Gmail"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle;" width="300">
+      <a href="mailto:alexanderpleshakovone@gmail.com" target="_blank">alexanderpleshakovone@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
