@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 - URLSession
 - UI/Unit Tests
 - JSON/Protobuf
+- REST/gRPC API
+- Combine
 
 ## 🤝 Связаться со мной:
 
