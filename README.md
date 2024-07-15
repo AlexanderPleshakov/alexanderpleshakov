@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 - JSON/Protobuf
 - REST/gRPC API
 - Combine
+- Async/await
 
 ## 🤝 Связаться со мной:
 
