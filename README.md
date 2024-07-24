@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp;</td>
-    <td style="vertical-align: middle;">Уверенное знание Figma</td>
+    <td style="vertical-align: middle;">Уверенное знание Figma/Sketch</td>
   </tr>
 </table>
 <table>
