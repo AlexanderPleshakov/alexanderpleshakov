@@ -1,69 +1,10 @@
 # Привет, меня зовут Александр!
 
-
-
-<!--
-**AlexanderPleshakov/alexanderpleshakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## :man_technologist: Обо мне:
 
 Я iOS-разработчик в команпии Indoors Navigation. Также учусь в вузе МТУСИ на третьем курсе бакалавриата на направлении "Фундаментальная информатика и информационные технологии".
-- Работаю с UIKit/SwiftUI
-- Работал с CoreData
-- Опыт использования менеджеров зависимостей (CocoaPods, SPM)
-- Много работаю с сетью, с легкость взаимодействую с api
-- Хорошо знаком с ахитектурными патернами MVC, MVP, MVVM, на каждом из них писал проекты
-- Написал много unit тестов
-- Пишу чистый код
-
-Сейчас активно работаю над приложением с использованием SwiftUI, Combin и клиент-серверным взаимодействием на основе gRPC
 <br>
 <br>
-
-## 🛠 Инструменты:
-
-<table>
-  <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" style="float:left; margin-right:10px;" width="30" height="30"/></td>
-    <td style="vertical-align: middle;">Знание XCode и его особенностей</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/postman.svg" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;</td>
-    <td style="vertical-align: middle;">Базовое тестирование api в Postman</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/gitkraken.svg" title="GitKraken" alt="GitKraken" width="30" height="30"/>&nbsp;</td>
-    <td style="vertical-align: middle;">Работа c git клиентами (Fork, Sourcetree, GitKraken)</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="30" height="30"/>&nbsp;</td>
-    <td style="vertical-align: middle;">Уверенное знание Figma/Sketch</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/AlexanderPleshakov/alexanderpleshakov/blob/main/assets/Charles.jpeg" title="Charles" alt="Charles" width="30" height="30"/>&nbsp;</td>
-    <td style="vertical-align: middle;">Тестирование с помощью Charles</td>
-  </tr>
-</table>
 
 ## ⚙️ Навыки:
 - UIKit/SwiftUI
