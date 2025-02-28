@@ -2,14 +2,15 @@
 
 ## :man_technologist: Обо мне:
 
-Я iOS-разработчик в команпии Indoors Navigation. Также учусь в вузе МТУСИ на третьем курсе бакалавриата на направлении "Фундаментальная информатика и информационные технологии".
+Я iOS-разработчик в команпии Pyrus. Также учусь в вузе МТУСИ на третьем курсе бакалавриата на направлении "Фундаментальная информатика и информационные технологии".
 <br>
 <br>
 
 ## ⚙️ Навыки:
 - UIKit/SwiftUI
-- MVC/MVP/MVVM
-- SOLID/KISS/DRY/YAGNI
+- Swift/Objective-C
+- MVC/MVP/MVVM/Clean Swift
+- SOLID
 - CoreData
 - User Defaults/ Keychain
 - SPM/CocoaPods
