@@ -2,26 +2,9 @@
 
 ## :man_technologist: Обо мне:
 
-Я iOS-разработчик в команпии Pyrus. Также учусь в вузе МТУСИ на третьем курсе бакалавриата на направлении "Фундаментальная информатика и информационные технологии".
+Я iOS-разработчик. Обучаюсь в вузе МТУСИ на четвертом курсе по направления "Фундаментальная информатика и информационные технологии".
 <br>
 <br>
-
-## ⚙️ Навыки:
-- UIKit/SwiftUI
-- Swift/Objective-C
-- MVC/MVP/MVVM/Clean Swift
-- SOLID
-- CoreData
-- User Defaults/ Keychain
-- SPM/CocoaPods
-- Notification Center/ KVO
-- AutoLayout
-- URLSession
-- UI/Unit Tests
-- JSON/Protobuf
-- REST/gRPC API
-- Combine
-- Async/await
 
 ## 🤝 Связаться со мной:
 
